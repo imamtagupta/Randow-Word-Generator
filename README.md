@@ -1,6 +1,13 @@
 # WordGenerator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
+## Environment Setup
+
+Install angular cli by running a single command 'install angular cli'
+
+## Before Running Project
+
+Run 'npm install' on angular CLI
 
 ## Development server
 
